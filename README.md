@@ -24,6 +24,3 @@ A simple CRUD API for managing tasks and users, built with FastAPI and MySQL.
 
 After starting the server, visit `http://localhost:8000/docs` for interactive API documentation.
 
-## ER Diagram
-
-![ER Diagram](https://i.imgur.com/example.png) (Replace with your actual diagram)
